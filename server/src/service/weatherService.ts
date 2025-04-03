@@ -4,9 +4,12 @@ dotenv.config();
 // TODO: Define an interface for the Coordinates object
 //interface Coordinates {
   // lat, lon
-//  lat: number;
-// lon: number;
+  //lat: number;
+  //lon: number;
 //}
+
+//let lat1 = this.lat;
+//let lon1 = this.lon;
 
 // TODO: Define a class for the Weather object
 //class Weather {
